@@ -6,7 +6,7 @@
 	url = ../../DFHack/isoworld.git
 [submodule "library/xml"]
 	path = library/xml
-	url = ../../DFHack/df-structures.git
+	url = ../../skligys/df-structures.git
 [submodule "depends/clsocket"]
 	path = depends/clsocket
 	url = ../../DFHack/clsocket.git
